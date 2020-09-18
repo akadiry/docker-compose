@@ -1,6 +1,5 @@
 /data/*
 /logs/*
-/public/**
 /.env
 /.vscode
 .DS_Store
